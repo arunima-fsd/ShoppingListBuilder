@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textViewMargin_main">5dp</dimen>
+    <dimen name="buttonMargin_main">20dp</dimen>
+    <dimen name="btnMargin_item">10dp</dimen>
+    <dimen name="layoutMargin_item">40dp</dimen>
+    <dimen name="btnPadding_main">20dp</dimen>
+</resources>

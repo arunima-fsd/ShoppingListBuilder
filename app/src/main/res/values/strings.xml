@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shopping List Builder</string>
+    <string name="btnAdd_item_main">Add Item</string>
+    <string name="items_activity">Items Activity</string>
+    <string name="cheese">Cheese</string>
+    <string name="apple">Apple</string>
+    <string name="peanuts">Peanuts</string>
+    <string name="cashew">Cashew</string>
+    <string name="cereals">Cereals</string>
+    <string name="cookies">Cookies</string>
+    <string name="rice">Rice</string>
+    <string name="carrots">Carrots</string>
+    <string name="beans">beans</string>
+</resources>
